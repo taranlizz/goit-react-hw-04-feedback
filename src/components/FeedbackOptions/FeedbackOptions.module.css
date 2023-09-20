@@ -1,0 +1,8 @@
+.button {
+  text-transform: capitalize;
+  width: 70px;
+}
+
+.button + .button {
+  margin-left: 8px;
+}
